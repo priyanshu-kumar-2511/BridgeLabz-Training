@@ -18,7 +18,7 @@ class largestNumber{
           if ((firstNumber > secondNumber) && (firstNumber > thirdNumber)){
              System.out.print("Is the first number the largest? "+ ((firstNumber > secondNumber) && (firstNumber > thirdNumber)));
           }
-          elseif((secondNumber > firstNumber) && (secondNumber > thirdNumber)){
+          else if((secondNumber > firstNumber) && (secondNumber > thirdNumber)){
              System.out.print("Is the second number the largest? "+ ((secondNumber > firstNumber) && (secondNumber > thirdNumber)));
           }
           else{
