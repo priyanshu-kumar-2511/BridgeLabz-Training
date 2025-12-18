@@ -22,6 +22,9 @@ class multiplesUsingWhile{
                 counter--;
             }
         } 
+        else {
+            System.out.println("User input is not positive integers.");
+        }
         input.close();
     }
 }
