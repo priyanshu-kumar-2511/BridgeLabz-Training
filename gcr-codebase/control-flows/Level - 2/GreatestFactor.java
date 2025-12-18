@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class greatestFactor{
+class GreatestFactor{
     public static void main(String[] args){
 
         Scanner input = new Scanner(System.in);
