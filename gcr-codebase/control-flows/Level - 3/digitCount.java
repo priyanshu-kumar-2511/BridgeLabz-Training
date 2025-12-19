@@ -7,7 +7,7 @@ class digitCount{
 
         // taking a number from user
         System.out.print("Enter an integer: ");
-        int number = scanner.nextInt();
+        int number = input.nextInt();
 
         int count = 0;
         // counting the digit of a number
