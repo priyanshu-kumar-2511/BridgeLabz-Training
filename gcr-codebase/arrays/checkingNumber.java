@@ -28,6 +28,19 @@ class checkingNumber{
                System.out.println("The "+number[index] +" is negative.");
           }
        }
+
+       // comparing the first and last element of an array
+       System.out.print("The first element is ");
+       if(number[0]>number[number.length-1]){
+          System.out.print("greater ");
+       }
+       else if (number[0]<number[number.length-1]){
+        System.out.print("lesser ");
+       }
+       else{
+        System.out.print("equal ");
+       }
+       System.out.print("than the last element of an array");
        input.close();
     }
 }
