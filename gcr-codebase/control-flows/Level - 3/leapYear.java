@@ -24,6 +24,9 @@ class leapYear{
                 System.out.println(year+" is not a Leap Year");
             }
         }
+        else {
+            System.out.println("Year must be 1582 or later.");
+        }
         input.close();
     }
 }
