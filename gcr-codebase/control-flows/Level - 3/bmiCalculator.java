@@ -5,10 +5,10 @@ class bmiCalculator {
 
         // Taking input from user
         System.out.print("Enter weight (in kg): ");
-        double weight = sc.nextDouble();
+        double weight = input.nextDouble();
 
         System.out.print("Enter height (in cm): ");
-        double heightCm = sc.nextDouble();
+        double heightCm = input.nextDouble();
 
         // Convertint height from cm to meter
         double heightM = heightCm / 100;
