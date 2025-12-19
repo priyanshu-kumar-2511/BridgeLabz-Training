@@ -1,0 +1,43 @@
+import java.util.Scanner;
+class LeapYear {
+    public static void main(String[] args) {
+
+        Scanner input = new Scanner(System.in);
+
+        // Taking year from user
+        System.out.print("Enter a year: ");
+        int year = input.nextInt();
+
+        // Checking year is valid for Gregorian calendar
+        if (year >= 1582) {
+
+            // -------- PART 1: Using multiple if-else statements --------
+            if (year % 400 == 0) {
+                System.out.println("PART 1: Year is a Leap Year");
+            } 
+            else if (year % 100 == 0) {
+                System.out.println("PART 1: Year is not a Leap Year");
+            } 
+            else if (year % 4 == 0) {
+                System.out.println("PART 1: Year is a Leap Year");
+            } 
+            else {
+                System.out.println("PART 1: Year is not a Leap Year");
+            }
+
+            // -------- PART 2: Using single if statement with logical operators --------
+            if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
+                System.out.println("PART 2: Year is a Leap Year");
+            } 
+            else {
+                System.out.println("PART 2: Year is not a Leap Year");
+            }
+
+        } 
+        else {
+            System.out.println("Year must be 1582 or later (Gregorian calendar).");
+        }
+
+        input.close();
+    }
+}
