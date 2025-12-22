@@ -17,7 +17,6 @@ public class SplitTextWithoutSplit {
 
     // create method split text into words using charAt()
     public static String[] splitTextManually(String text) {
-
         int length = findLength(text);
 
         int wordCount = 1;
