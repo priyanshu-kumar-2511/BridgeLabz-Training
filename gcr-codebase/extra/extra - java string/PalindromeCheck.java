@@ -1,0 +1,37 @@
+import java.util.Scanner;
+public class PalindromeCheck {
+
+    public static boolean isPalindrome(String text) {
+        if (text == null) return false;
+
+        // Normalize: remove spaces and convert to lowercase
+        text = text.replaceAll("\\s+", "").toLowerCase();
+
+        int start = 0;
+        int end = text.length() - 1;
+
+        while (start < end) {
+            if (text.charAt(start) != text.charAt(end)) {
+                return false;
+            }
+            start++;
+            end--;
+        }
+        return true;
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter text: ");
+        String input = sc.nextLine();
+
+        if (isPalindrome(input)) {
+            System.out.println("Palindrome");
+        } else {
+            System.out.println("Not a Palindrome");
+        }
+
+        sc.close();
+    }
+}
