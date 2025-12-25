@@ -42,7 +42,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 *Code Link:*  
-👉 [Day 3 – Programming Elements](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+[Day 3 – Programming Elements](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ## 🗓 Day 4 – Control Flow & Logical Constructs  
 *(Date: 18-Dec-2025)*
@@ -61,7 +61,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 *Code Link:*  
-👉 [Day 4 – Control Flow](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+[Day 4 – Control Flow](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ## 🗓 Day 5 – Arrays & Basic Problem Solving  
 *(Date: 19-Dec-2025)*
@@ -77,5 +77,17 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 *Code Link:*  
-👉 [Day 5 – Arrays](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+[Day 5 – Arrays](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
+## 🗓 Day 6 – Methods  
+*(Date: 20-Dec-2025)*
+
+- Studied Java methods:
+  - Method declaration
+  - Method calling
+  - Parameter passing
+- Practiced reusable logic using methods.
+- Committed and pushed solutions to the repository.
+
+🔗 *Code Link:*  
+[Day 6 – Strings & Methods](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
