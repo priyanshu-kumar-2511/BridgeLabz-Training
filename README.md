@@ -2,7 +2,7 @@
 
 ## ---> Git, GitHub & Java Programming Fundamentals
 
-**🗓 Day 1 – Git & GitHub Setup**
+## 🗓 Day 1 – Git & GitHub Setup
 *(Date: 15-Dec-2025)*
 
 - Installed and configured Git.
@@ -27,7 +27,7 @@ BridgeLabz-Training/
 - Learned basic Git commands (init, clone, add, commit, push).
 - Successfully pushed files to the remote repository.
 
-**🗓 Day 2 – Git Practice & Basic Java Programs**  
+## 🗓 Day 2 – Git Practice & Basic Java Programs 
 *(Date: 16-Dec-2025)*
 
 - Practiced Git workflow to understand commits and version control.
@@ -37,7 +37,7 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 2 – Basic Java Programs](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program%20prerequisite)
 
-**🗓 Day 3 – Programming Elements in Java**  
+## 🗓 Day 3 – Programming Elements in Java 
 *(Date: 17-Dec-2025)*
 
 - Studied Java programming elements:
@@ -50,7 +50,7 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 3 – Programming Elements](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
-**🗓 Day 4 – Control Flow & Logical Constructs**  
+## 🗓 Day 4 – Control Flow & Logical Constructs  
 *(Date: 18-Dec-2025)*
 
 - Studied logical constructs in Java:
@@ -69,7 +69,7 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 4 – Control Flow](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
-**🗓 Day 5 – Arrays & Basic Problem Solving**  
+## 🗓 Day 5 – Arrays & Basic Problem Solving  
 *(Date: 19-Dec-2025)*
 
 - Studied arrays in Java:
@@ -85,7 +85,7 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 5 – Arrays](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
-**🗓 Day 6 – Methods**  
+## 🗓 Day 6 – Methods  
 *(Date: 20-Dec-2025)*
 
 - Studied Java methods:
@@ -98,7 +98,7 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 6 – Methods](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
-**🗓 Day 7 – Strings**   
+## 🗓 Day 7 – Strings   
 *(Date: 22-Dec-2025)*
 
 - Studied String concepts:
@@ -111,7 +111,7 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 7 – Strings](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
-**🗓 Day 7 – Built-in Functions & Extra Practice**  
+## 🗓 Day 8 – Built-in Functions & Extra Practice 
 *(Date: 23-Dec-2025)*
 
 - Practiced Java built-in functions.
@@ -123,11 +123,11 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 *Code Link:*  
-[Day 7 – Built-in Functions](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+[Day 8 – Built-in Functions](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
 
 ## ---> Practicing Scenario-based problem and leetcode problem
 
-**🗓 Day 8 – Scenario-based problem & leetcode Practice** 
+## 🗓 Day 9 – Scenario-based problem & leetcode Practice
 *(Date: 24-Dec-2025)*
 
 - Practiced in Leetcode.
@@ -139,16 +139,17 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 *Code Link:*  
-[Day 8 – Scenario-based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+[Day 9 – Scenario-based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
-[Day 8 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+[Day 9 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
 ## ---> Object Oriented Programming Practice
-**🗓 Day 9 – Oops,  Scenario-based problem & leetcode Practice** 
+
+## 🗓 Day 10 – Oops Concept,  Scenario-based problem & leetcode Practice 
 *(Date: 26-Dec-2025)*
 
 - Git setup 
-  - java-oops-practices branch
+  - Create java-oops-practices branch
 - Studied the OOPS concept
   - Practice Question
 - Practiced in Leetcode.
@@ -160,11 +161,10 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 *Code Link:*  
-[Day 9 - Oops problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+[Day 10 - Oops problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
-[Day 9 – Scenario-based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+[Day 10 – Scenario-based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
-[Day 9 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
-
+[Day 10 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
 
 
