@@ -5,7 +5,7 @@
 **🗓 Day 1- GitHub Setup & Oops Concept**
 *(Date: 26-Dec-2025)*
 
-- Set up GitHub repository.
+- Set up GitHub.
 
 ```
 BridgeLabz-Training/
