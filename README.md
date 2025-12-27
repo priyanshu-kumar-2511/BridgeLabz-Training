@@ -167,4 +167,17 @@ BridgeLabz-Training/
 
 [Day 10 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
 
+## 🗓 Day 11- Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts
+*(Date: 27-Dec-2025)*
+
+- Studied the Constructors concept
+- Studied the Instance vs. Class Variables
+- Studied the Access Modifiers Concepts
+- Solved logical problems such as 
+  - Hotel Booking System, Employee Records, Online Course Management
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 11 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
+
 
