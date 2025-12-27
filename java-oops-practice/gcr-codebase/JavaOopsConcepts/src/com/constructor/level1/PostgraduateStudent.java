@@ -18,8 +18,7 @@ public class PostgraduateStudent extends Student {
     }
 
     public static void main(String[] args) {
-        PostgraduateStudent p =
-                new PostgraduateStudent(130, "Priyanshu", 8.5, "DS");
+        PostgraduateStudent p = new PostgraduateStudent(130, "Priyanshu", 8.5, "DS");
 
         p.display();
         p.setCGPA(9.1);
