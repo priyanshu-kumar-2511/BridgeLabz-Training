@@ -36,3 +36,16 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 2 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
 
+## 🗓 Day 3- This, Static, Final keywords and Instance of operator Concept
+*(Date: 29-Dec-2025)*
+
+- Studied the This, Static
+- Studied the Final keywords 
+- Studied the Instance of operator 
+- Solved logical problems such as 
+  - Bank Account System, Library Management System, Employee Management System
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 3- This, Static, Final keywords and Instance of operator Concept](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops/inbuiltfunction)
+
