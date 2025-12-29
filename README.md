@@ -159,3 +159,19 @@ BridgeLabz-Training/
 
 [Day 10 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
+## 🗓 Day 11 – Scenario-based problem & leetcode Practice
+*(Date: 29-Dec-2025)*
+
+- Practiced in Leetcode.
+- Solved problem related to
+  - Array
+- Improved understanding of:
+  - Scenario-based question
+  - like ReportCard Generator, Pooling Booth Manager
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 11 – Scenario-based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+[Day 11 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
