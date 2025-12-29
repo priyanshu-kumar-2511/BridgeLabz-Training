@@ -180,4 +180,26 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 11 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
 
+## 🗓 Day 12 – his, Static, Final keywords and Instance of operator Concept, Scenario-based problem & leetcode Practice
+*(Date: 29-Dec-2025)*
+
+- Studied the This, Static
+- Studied the Final keywords 
+- Studied the Instance of operator 
+- Solved logical problems such as 
+  - Bank Account System, Library Management System, Employee Management System
+- Practiced in Leetcode.
+- Solved problem related to
+  - Array
+- Improved understanding of:
+  - Scenario-based question
+  - like ReportCard Generator, Pooling Booth Manager
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 12 - This, Static, Final keywords and Instance of operator Concept](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops/inbuiltfunction)
+
+[Day 12 – Scenario-based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+[Day 12 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
