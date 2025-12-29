@@ -180,7 +180,7 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 11 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
 
-## 🗓 Day 12 – his, Static, Final keywords and Instance of operator Concept, Scenario-based problem & leetcode Practice
+## 🗓 Day 12 – This, Static, Final keywords and Instance of operator Concept, Scenario-based problem & leetcode Practice
 *(Date: 29-Dec-2025)*
 
 - Studied the This, Static
