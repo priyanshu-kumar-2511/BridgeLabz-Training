@@ -175,3 +175,18 @@ BridgeLabz-Training/
 
 [Day 11 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
+## 🗓 Day 12 – Scenario-based problem & leetcode Practice
+*(Date: 30-Dec-2025)*
+
+- Practiced in Leetcode.
+- Solved problem related to String
+  - Add Binary, Valid Palindrome
+- Improved understanding of Scenario-based question
+  - like Train Reservation System, Movie Ticket Booking System
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 12 – Scenario-based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+[Day 12 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
+
