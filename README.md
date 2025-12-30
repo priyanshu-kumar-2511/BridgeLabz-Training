@@ -2,7 +2,7 @@
 
 ## Week 2: Object-Oriented Programming
 
-## 🗓 Day 1- GitHub Setup & Oops Concept
+## 🗓 Day 1 - GitHub Setup & Oops Concept
 *(Date: 26-Dec-2025)*
 
 - Set up GitHub.
@@ -23,7 +23,7 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 1 – GitHub Setup & Oops Concept](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice)
 
-## 🗓 Day 2- Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts
+## 🗓 Day 2 - Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts
 *(Date: 27-Dec-2025)*
 
 - Studied the Constructors concept
@@ -36,7 +36,7 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 2 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
 
-## 🗓 Day 3- This, Static, Final keywords and Instance of operator Concept
+## 🗓 Day 3 - This, Static, Final keywords and Instance of operator Concept
 *(Date: 29-Dec-2025)*
 
 - Studied the This, Static
@@ -47,5 +47,17 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository 
 
 🔗 *Code Link:*  
-[Day 3- This, Static, Final keywords and Instance of operator Concept](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops/inbuiltfunction)
+[Day 3 - This, Static, Final keywords and Instance of operator Concept](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/oops/inbuiltfunction)
+
+## 🗓 Day 4 - Object Modeling, Class Diagram Concept
+*(Date: 30-Dec-2025)*
+
+- Studied the Object Modeling
+- Studied the Class Diagram
+- Solved logical problems such as 
+  - Bank Account System, Library Management System
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 4 - Object Modeling](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
 
