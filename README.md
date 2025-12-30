@@ -203,3 +203,25 @@ BridgeLabz-Training/
 
 [Day 12 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
+## 🗓 Day 13 - Object Modeling, Class Diagram Concept, Scenario-based problem & leetcode Practice
+*(Date: 30-Dec-2025)*
+
+- Studied the Object Modeling
+- Studied the Class Diagram
+- Solved logical problems such as 
+  - Bank Account System, Library Management System
+- Practiced in Leetcode.
+- Solved problem related to
+  - String
+- Improved understanding of:
+  - Scenario-based question
+  - like Train Reservation System, Movie Ticket Booking System
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 13 - Object Modeling](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+
+[Day 13 – Scenario-based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+[Day 13 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
+
