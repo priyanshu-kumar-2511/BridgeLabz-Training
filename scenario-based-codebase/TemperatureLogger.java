@@ -1,3 +1,11 @@
+/*
+11. Temperature Logger 🌡️
+Record temperatures over 7 days.
+● Use array and for-loop.
+● Find average and max temperature.
+● Use if for comparisons. Maintain readable naming and modular code blocks.
+*/
+
 import java.util.Scanner;
 
 public class TemperatureLogger {
