@@ -1,3 +1,11 @@
+/*
+14. Movie Ticket Booking App 🎬
+Ask users for movie type, seat type (gold/silver), and snacks.
+● Use switch and if together.
+● Loop through multiple customers.
+● Clean structure and helpful variable names.
+*/
+
 import java.util.Scanner;
 
 public class MovieTicketBooking {
