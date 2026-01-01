@@ -190,3 +190,17 @@ BridgeLabz-Training/
 
 [Day 12 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
 
+## 🗓 Day 13 – Scenario-based problem & leetcode Practice
+*(Date: 31-Dec-2025)*
+
+- Practiced in Leetcode.
+- Solved problem related to Math
+  - Reverse Integer
+- Improved understanding of Scenario-based question
+  - like Currency Exchange System, Online Quiz Application
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 13 – Scenario-based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+[Day 13 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/math)
