@@ -61,3 +61,15 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 4 - Object Modeling](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
 
+## 🗓 Day 5 - Object Modeling, Inheritance
+*(Date: 31-Dec-2025)*
+
+- Studied the Object Modeling
+- Solved logical problems such as 
+  - School and Students with Courses, University Management System
+- Studied the Inheritance
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 5 - Object Modeling](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+
