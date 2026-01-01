@@ -225,3 +225,25 @@ BridgeLabz-Training/
 
 [Day 13 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
 
+## 🗓 Day 14 - Object Modeling, Inheritance, Scenario-based problem & leetcode Practice
+*(Date: 31-Dec-2025)*
+
+- Studied the Object Modeling
+- Solved logical problems such as
+  - School and Students with Courses, University Management System
+- Studied the Inheritance
+- Practiced in Leetcode.
+- Solved problem related to
+  - Math
+- Improved understanding of:
+  - Scenario-based question
+  - like Currency Exchange System, Online Quiz Application
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 14 - Object Modeling](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+
+[Day 14 – Scenario-based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+[Day 14 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/math)
+
