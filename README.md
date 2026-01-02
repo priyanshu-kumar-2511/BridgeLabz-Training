@@ -204,3 +204,17 @@ BridgeLabz-Training/
 [Day 13 – Scenario-based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 [Day 13 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/math)
+
+## 🗓 Day 14 – Scenario-based problem & leetcode Practice
+*(Date: 01-Jab-2026)*
+
+- Practiced in Leetcode.
+- Solved problem related to Array
+- Improved understanding of Scenario-based question
+  - like Coffee Counter
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 14 – Scenario-based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+[Day 14 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
