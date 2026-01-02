@@ -247,3 +247,29 @@ BridgeLabz-Training/
 
 [Day 14 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/math)
 
+## 🗓 Day 15 - Inheritance, Encapsulation, Polymorphism, Interface, Abstract Classes, Scenario based problem(corejava) Scenario-based problem(oops) & leetcode Practice 
+*(Date: 01-Jan-2026)*
+
+- Studied the Inheritance 
+- Solved logical problems such as 
+  - Vehicle Management System, School System
+- Studied the Encapsulation, Polymorphism, Interface & Abstract Classes
+- Solved Scenario based problem(corejava)
+  - Bank Management System 
+- Practiced in Leetcode.
+- Solved problem related to Array
+- Improved understanding of Scenario-based question(oops)
+  - like Coffee Counter  
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 15 - Inheritance](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com)
+
+[Day 15 - Scenario Based Problem(corejava)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
+[Day 15 – Scenario-based problem(oops)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+[Day 15 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+
+
