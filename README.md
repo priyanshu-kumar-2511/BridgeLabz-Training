@@ -88,5 +88,17 @@ BridgeLabz-Training/
 [Day 6 - Inheritance](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com)
 [Day 6 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
 
+## 🗓 Day 7 - Encapsulation, Polymorphism, Interface & Abstract Classes & Scenario based problem
+*(Date: 02-Jan-2026)*
 
+- Studied the Encapsulation, Polymorphism, Interface & Abstract Classes
+- Solved logical problems such as 
+  - Banking System, Hospital Management System
+- Solved Scenario based problem
+  - E-Wallet Application
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 7 - Encapsulation, Polymorphism, Interface & Abstract Classes](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
+[Day 7 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
 
