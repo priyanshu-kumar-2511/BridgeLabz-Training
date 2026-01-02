@@ -272,4 +272,24 @@ BridgeLabz-Training/
 [Day 15 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
 
+## 🗓 Day 16 - Encapsulation, Polymorphism, Interface & Abstract Classes , Scenario based problem(oops) & leetcode & DSA
+*(Date: 02-Jan-2026)*
+
+- Studied the Encapsulation, Polymorphism, Interface & Abstract Classes
+- Solved logical problems such as 
+  - Banking System, Hospital Management System
+- Solved Scenario based problem
+  - E-Wallet Application
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - 3SUM  
+- Studied LinkedList  
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 16 - Encapsulation, Polymorphism, Interface & Abstract Classes](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
+
+[Day 16 - Scenario Based Problem(oops)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
+[Day 16 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
