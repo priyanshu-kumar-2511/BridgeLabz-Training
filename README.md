@@ -73,3 +73,20 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 5 - Object Modeling](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
 
+## 🗓 Day 6 - Inheritance, Encapsulation, Polymorphism, Interface, Abstract Classes & Scenario based problem
+*(Date: 01-Jan-2026)*
+
+- Studied the Inheritance 
+- Solved logical problems such as 
+  - Vehicle Management System, School System
+- Studied the Encapsulation, Polymorphism, Interface & Abstract Classes
+- Solved Scenario based problem
+  - Bank Management System 
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 6 - Inheritance](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com)
+[Day 6 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
+
+
