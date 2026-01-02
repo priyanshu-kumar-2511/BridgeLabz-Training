@@ -206,7 +206,7 @@ BridgeLabz-Training/
 [Day 13 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/math)
 
 ## 🗓 Day 14 – Scenario-based problem & leetcode Practice
-*(Date: 01-Jab-2026)*
+*(Date: 01-Jan-2026)*
 
 - Practiced in Leetcode.
 - Solved problem related to Array
@@ -218,3 +218,14 @@ BridgeLabz-Training/
 [Day 14 – Scenario-based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 [Day 14 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+## 🗓 Day 15 – leetcode Practice
+*(Date: 02-Jan-2026)*
+
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - 3SUM
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 15 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
