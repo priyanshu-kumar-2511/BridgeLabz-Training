@@ -1,4 +1,4 @@
-package EWalletApplication;
+package ewalletapplication;
 
 import java.util.*;
 

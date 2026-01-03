@@ -1,4 +1,4 @@
-package EWalletApplication;
+package ewalletapplication;
 
 public class BusinessWallet extends Wallet {
 

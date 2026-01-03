@@ -1,4 +1,4 @@
-package EWalletApplication;
+package ewalletapplication;
 
 public class User {
     private String name;
