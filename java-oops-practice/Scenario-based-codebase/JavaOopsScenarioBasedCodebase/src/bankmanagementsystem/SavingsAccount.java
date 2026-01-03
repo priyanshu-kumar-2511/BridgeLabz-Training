@@ -1,4 +1,4 @@
-package BankManagementSystem;
+package bankmanagementsystem;
 
 public class SavingsAccount extends Account {
     double interestRate;

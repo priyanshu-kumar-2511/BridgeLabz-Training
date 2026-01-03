@@ -1,4 +1,4 @@
-package BankManagementSystem;
+package bankmanagementsystem;
 
 public class Account {
     int accountNumber;
