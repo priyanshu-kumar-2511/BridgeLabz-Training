@@ -1,4 +1,4 @@
-package com.linkedlist.circularinkedlist.taskscheduler;
+package com.linkedlist.circularlinkedlist.taskscheduler;
 
 public class Task {
     int id;

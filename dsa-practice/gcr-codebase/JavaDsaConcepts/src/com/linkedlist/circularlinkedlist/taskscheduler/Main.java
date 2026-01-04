@@ -1,4 +1,4 @@
-package com.linkedlist.circularinkedlist.taskscheduler;
+package com.linkedlist.circularlinkedlist.taskscheduler;
 
 /*3. Circular Linked List: Task Scheduler
 Problem Statement: Create a task scheduler using a circular linked list. Each node in the list represents a task with Task ID, Task Name, Priority, and Due Date. Implement the following functionalities:
