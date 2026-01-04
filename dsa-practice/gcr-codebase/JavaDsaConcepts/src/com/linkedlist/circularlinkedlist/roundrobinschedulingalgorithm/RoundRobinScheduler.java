@@ -1,4 +1,4 @@
-package com.linkedlist.circularinkedlist.roundrobinschedulingalgorithm;
+package com.linkedlist.circularlinkedlist.roundrobinschedulingalgorithm;
 
 public class RoundRobinScheduler {
 

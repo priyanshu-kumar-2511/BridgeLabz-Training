@@ -1,4 +1,4 @@
-package com.linkedlist.circularinkedlist.roundrobinschedulingalgorithm;
+package com.linkedlist.circularlinkedlist.roundrobinschedulingalgorithm;
 
 /*6. Circular Linked List: Round Robin Scheduling Algorithm
 Problem Statement: Implement a round-robin CPU scheduling algorithm using a circular linked list. Each node will represent a process and contain Process ID, Burst Time, and Priority. Implement the following functionalities:
