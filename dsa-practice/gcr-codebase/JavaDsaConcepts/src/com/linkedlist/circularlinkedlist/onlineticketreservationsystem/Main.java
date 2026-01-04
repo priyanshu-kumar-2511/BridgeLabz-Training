@@ -1,4 +1,4 @@
-package com.linkedlist.circularinkedlist.onlineticketreservationsystem;
+package com.linkedlist.circularlinkedlist.onlineticketreservationsystem;
 
 /*9. Circular Linked List: Online Ticket Reservation System
 Problem Statement: Design an online ticket reservation system using a circular linked list, where each node represents a booked ticket. Each node will store the following information: Ticket ID, Customer Name, Movie Name, Seat Number, and Booking Time. Implement the following functionalities:
