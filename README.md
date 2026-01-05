@@ -307,5 +307,22 @@ BridgeLabz-Training/
 
 [Day 17 - Scenario Based Problem(oops)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
 
+## 🗓 Day 18 – leetcode Practice, Scenario based problem(oops), Sorting Algorithms
+*(Date: 05-Jan-2026)*
 
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - Remove Element
+- Solved Scenario based problem
+  - College Information System, Grocery Shopping App
+- Studied Bubble Sort, Insertion Sort Merge Sort, and Quick Sort
+- Solved problem related to Sorting Algorithm  
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 18 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+[Day 18 - Scenario Based Problem(oops)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
+[Day 18 – Sorting Algorithms](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting)
 
