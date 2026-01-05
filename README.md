@@ -229,3 +229,15 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 [Day 15 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+## 🗓 Day 16 – leetcode Practice
+*(Date: 05-Jan-2026)*
+
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - Remove Element
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 16 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
