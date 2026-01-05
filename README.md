@@ -116,3 +116,13 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 1 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
 
+## 🗓 Day 2 - Scenario based problem
+*(Date: 05-Jan-2026)*
+
+- Solved Scenario based problem
+  - College Information System, Grocery Shopping App
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 2 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
