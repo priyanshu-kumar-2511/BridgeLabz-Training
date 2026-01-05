@@ -30,3 +30,13 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 2 – Stack , Queue, HashMap and Hashing Function](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/stacksandqueues)
 
+## 🗓 Day 3 – Sorting Algorithms
+*(Date: 05-Jan-2026)*
+
+- Studied Bubble Sort, Insertion Sort Merge Sort, and Quick Sort
+- Solved problem related to Sorting Algorithm
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 3 – Sorting Algorithms](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting)
+
