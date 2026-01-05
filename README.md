@@ -293,3 +293,19 @@ BridgeLabz-Training/
 
 [Day 16 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
+## 🗓 Day 17 – Stack , Queue, HashMap and Hashing Function, Scenario based problem(oops)
+*(Date: 03-Jan-2026)*
+
+- Studied Stack , Queue, HashMap and Hashing Function
+- Solved problem related to Stack & Queue
+- Solved Scenario based problem
+  - CabbyGo, MyBank
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 17 – Stack , Queue, HashMap and Hashing Function](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/stacksandqueues)
+
+[Day 17 - Scenario Based Problem(oops)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
+
+
