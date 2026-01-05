@@ -14,6 +14,6 @@ public class Main {
 
         int start = CircularTour.findStart(petrol, distance);
 
-        System.out.println(start);
+        System.out.print("Minimum petrol is needed to the next petrol pump: "+ start);
     }
 }
