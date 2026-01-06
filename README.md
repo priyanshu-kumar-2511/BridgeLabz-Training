@@ -40,3 +40,13 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 3 – Sorting Algorithms](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting)
 
+## 🗓 Day 4 – Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+*(Date: 06-Jan-2026)*
+
+- Studied Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader FileReader, InputStreamReader
+- Solved problem related to StringBuilder, StringBuffer, FileReader
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 4 – StringBuilder, StringBuffer, FileReader](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com)
+
