@@ -136,3 +136,12 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 3 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
 
+## 🗓 Day 4 - Scenario based problem
+*(Date: 07-Jan-2026)*
+
+- Solved Scenario based problem
+  - LoanBuddy – Loan Approval Automation, BookBazaar – Digital Bookstore System
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 4 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
