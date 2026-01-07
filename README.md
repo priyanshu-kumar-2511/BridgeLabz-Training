@@ -326,3 +326,22 @@ BridgeLabz-Training/
 
 [Day 18 – Sorting Algorithms](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting)
 
+## 🗓 Day 19 – leetcode Practice, Scenario based problem(oops), Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+*(Date: 06-Jan-2026)*
+
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - Next Permutation
+- Solved Scenario based problem
+  - Personalized Learning Platform, Your Personal Fitness Tracker, Virtual Pet Care App
+- Studied Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader FileReader, InputStreamReader
+- Solved problem related to StringBuilder, StringBuffer, FileReader
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 19 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+[Day 19 - Scenario Based Problem(oops)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
+[Day 19 – StringBuilder, StringBuffer, FileReader](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com)
+
