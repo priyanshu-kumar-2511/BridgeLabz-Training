@@ -14,7 +14,6 @@ Continue until a peak element is found.
 */
 
 public class PeakElement {
-
     public static int findPeak(int[] arr) {
 
         int left = 0;
