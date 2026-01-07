@@ -252,3 +252,14 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 17 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
+## 🗓 Day 18 – leetcode Practice
+*(Date: 07-Jan-2026)*
+
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - First And Last Position Of Element
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 18 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
