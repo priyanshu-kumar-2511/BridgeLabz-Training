@@ -126,3 +126,13 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 2 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
 
+## 🗓 Day 3 - Scenario based problem
+*(Date: 06-Jan-2026)*
+
+- Solved Scenario based problem
+  - Personalized Learning Platform, Your Personal Fitness Tracker, Virtual Pet Care App
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 3 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
