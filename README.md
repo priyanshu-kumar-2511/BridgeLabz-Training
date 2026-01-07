@@ -345,3 +345,22 @@ BridgeLabz-Training/
 
 [Day 19 – StringBuilder, StringBuffer, FileReader](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com)
 
+## 🗓 Day 20 – leetcode Practice, Scenario based problem(oops), Time & Space Complexity Optimization
+*(Date: 07-Jan-2026)*
+
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - First And Last Position Of Element
+- Solved Scenario based problem
+  - LoanBuddy – Loan Approval Automation, BookBazaar – Digital Bookstore System
+- Studied Time & Space Complexity Optimization
+- Solved problem related to Linear Search & Binary Search
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 20 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+[Day 20 - Scenario Based Problem(oops)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
+[Day 20 – Linear Search & Binary Search](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com)
+
