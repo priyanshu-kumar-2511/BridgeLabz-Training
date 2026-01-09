@@ -364,3 +364,19 @@ BridgeLabz-Training/
 
 [Day 20 – Linear Search & Binary Search](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com)
 
+## 🗓 Day 21 – leetcode Practice, Scenario based problem(oops), Time & Space Complexity Optimization
+*(Date: 08-Jan-2026)*
+
+- Practiced in Leetcode.
+- Solved problem related to String
+  - Longest Substring without repeating character
+- Solved Scenario based problem
+  - MediStore – Pharmacy Inventory & Sales System
+- Studied Time & Space Complexity Optimization
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 21 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
+
+[Day 21 - Scenario Based Problem(oops)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
