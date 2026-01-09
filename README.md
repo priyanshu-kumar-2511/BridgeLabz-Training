@@ -150,8 +150,19 @@ BridgeLabz-Training/
 *(Date: 08-Jan-2026)*
 
 - Solved Scenario based problem
-  -MediStore – Pharmacy Inventory & Sales System
+  - MediStore – Pharmacy Inventory & Sales System
 - Committed and pushed solutions to the repository
 
 🔗 *Code Link:*  
 [Day 5 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
+## 🗓 Day 6 - Scenario based problem
+*(Date: 09-Jan-2026)*
+
+- Solved Scenario based problem
+  - Artify – Digital Art Marketplace, FoodLoop – Restaurant Ordering System
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 6 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
