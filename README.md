@@ -60,4 +60,9 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 5 – Linear Search & Binary Search](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com)
 
+## 🗓 Day 6 –  Time & Space Complexity Optimization
+*(Date: 08-Jan-2026)*
+
+- Studied Time & Space Complexity Optimization
+- Committed and pushed all changes successfully.
 
