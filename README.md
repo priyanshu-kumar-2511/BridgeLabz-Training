@@ -263,3 +263,14 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 18 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
+## 🗓 Day 19 – leetcode Practice
+*(Date: 08-Jan-2026)*
+
+- Practiced in Leetcode.
+- Solved problem related to String
+  - Longest Substring Without Repeating Characters
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 19 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
+
