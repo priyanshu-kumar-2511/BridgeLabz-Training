@@ -274,3 +274,14 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 19 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/string)
 
+## 🗓 Day 20 – leetcode Practice
+*(Date: 09-Jan-2026)*
+
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - Search in Rotated Sorted Array
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 20 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
