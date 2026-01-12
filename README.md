@@ -66,3 +66,15 @@ BridgeLabz-Training/
 - Studied Time & Space Complexity Optimization
 - Committed and pushed all changes successfully.
 
+## --> Practice Scenario-Based DSA Problem
+
+## 🗓 Day 7 –  Scenario-Based Problem 
+*(Date: 10-Jan-2026)*
+
+- Solved Scenario based problem(Linked List)
+  - BookShelf – Library Organizer, BrowserBuddy – Tab History Manager, AmbulanceRoute – Emergency Patient Navigation
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 7 – Scenario based problem(Linked List)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
