@@ -395,3 +395,18 @@ BridgeLabz-Training/
 
 [Day 22 - Scenario Based Problem(oops)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
 
+## 🗓 Day 23 – leetcode Practice, Scenario based problem(dsa)
+*(Date: 10-Jan-2026)*
+
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - Search Insert Position
+- Solved Scenario based problem
+  - BookShelf – Library Organizer, BrowserBuddy – Tab History Manager
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 23 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+[Day 23 - Scenario Based Problem(dsa)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
