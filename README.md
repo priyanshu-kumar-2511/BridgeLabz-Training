@@ -78,3 +78,16 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 7 – Scenario based problem(Linked List)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
 
+## Week 4: Scenario Based Problem - DSA
+
+## 🗓 Day 1 –  Scenario-Based Problem 
+*(Date: 12-Jan-2026)*
+
+- Solved Scenario based problem
+  - BookShelf – Library Organizer(HashMap + Linked List), TrafficManager – Roundabout Vehicle Flow (Circular Linked List +
+Queue)
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 1 – Scenario based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
