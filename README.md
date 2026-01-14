@@ -91,3 +91,14 @@ Queue)
 🔗 *Code Link:*  
 [Day 1 – Scenario based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
 
+## 🗓 Day 2 –  Scenario-Based Problem 
+*(Date: 13-Jan-2026)*
+
+- Solved Scenario based problem
+  - SmartCheckout – Supermarket Billing Queue (Queue + HashMap), ParcelTracker – Delivery Chain Management (Singly Linked List), ExamProctor – Online Exam Review System (Stack + HashMap +
+Functions)
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 2 – Scenario based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
