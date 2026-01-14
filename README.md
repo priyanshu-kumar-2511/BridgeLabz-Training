@@ -410,3 +410,21 @@ BridgeLabz-Training/
 
 [Day 23 - Scenario Based Problem(dsa)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
 
+## 🗓 Day 24 – Scenario based problem(oops), leetcode Practice, Scenario based problem(dsa)
+*(Date: 12-Jan-2026)*
+
+- Solved Scenario based problem(oops)
+  - HomeNest – Smart Home Device Manager, BudgetWise – Personal Finance Tracker, GameBox – Mobile Game Distribution Platform 
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - Trapping Rain Water
+- Solved Scenario based problem(dsa)
+  - BookShelf – Library Organizer(HashMap + Linked List), TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue) 
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 24 - Scenario Based Problem(oops)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
+[Day 24 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+[Day 24 - Scenario Based Problem(dsa)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
