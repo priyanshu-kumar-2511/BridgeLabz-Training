@@ -175,3 +175,15 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 [Day 7 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
+## Week 4: Scenerio Based Problem - Object-Oriented Programming
+
+## 🗓 Day 1 - Scenario based problem
+*(Date: 13-Jan-2026)*
+
+- Solved Scenario based problem
+  - PayXpress – Utility Bill Payment System
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 1 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
