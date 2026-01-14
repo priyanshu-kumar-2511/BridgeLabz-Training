@@ -428,3 +428,24 @@ BridgeLabz-Training/
 [Day 24 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
 [Day 24 - Scenario Based Problem(dsa)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
+## 🗓 Day 25 – Scenario based problem(oops), leetcode Practice, Scenario based problem(dsa)
+*(Date: 13-Jan-2026)*
+
+- Solved Scenario based problem(oops)
+  - PayXpress – Utility Bill Payment System 
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - Permutations
+- Solved Scenario based problem(dsa)
+  - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+  - ParcelTracker – Delivery Chain Management (Singly Linked List)
+  - ExamProctor – Online Exam Review System (Stack + HashMap + Functions) 
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 25 - Scenario Based Problem(oops)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
+[Day 25 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+[Day 25 - Scenario Based Problem(dsa)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
