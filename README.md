@@ -102,3 +102,14 @@ Functions)
 🔗 *Code Link:*  
 [Day 2 – Scenario based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
 
+## 🗓 Day 3 –  Scenario-Based Problem 
+*(Date: 15-Jan-2026)*
+
+- Solved Scenario based problem
+  - HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
+  - SmartShelf – Real-Time Book Arrangement (Insertion Sort)
+  - ZipZipMart – Daily Sales Summary Report (Merge Sort)
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 3 – Scenario based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
