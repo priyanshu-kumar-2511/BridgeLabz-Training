@@ -113,3 +113,16 @@ Functions)
 
 🔗 *Code Link:*  
 [Day 3 – Scenario based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
+## 🗓 Day 4 –  Scenario-Based Problem 
+*(Date: 16-Jan-2026)*
+
+- Solved Scenario based problem
+  - RoboWarehouse – Shelf Loading Robot (Insertion Sort)
+  - CinemaHouse – Movie Time Sorting (Bubble Sort)
+  - CropMonitor – Sensor Data Ordering (Quick Sort)
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 4 – Scenario based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
