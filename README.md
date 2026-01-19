@@ -462,3 +462,18 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 26 - Scenario Based Problem(dsa)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
 
+## 🗓 Day 27 – Scenario based problem(dsa), Generics(collections)
+*(Date: 16-Jan-2026)*
+
+- Solved Scenario based problem(dsa)
+  - RoboWarehouse – Shelf Loading Robot (Insertion Sort)
+  - CinemaHouse – Movie Time Sorting (Bubble Sort)
+  - CropMonitor – Sensor Data Ordering (Quick Sort)
+- Learn and Solve Generics
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 27 - Scenario Based Problem(dsa)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
+[Day 27 – Java Generics(collections)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/generics)
+
