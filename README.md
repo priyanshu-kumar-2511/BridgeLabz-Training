@@ -126,3 +126,15 @@ Functions)
 🔗 *Code Link:*  
 [Day 4 – Scenario based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
 
+## 🗓 Day 5 –  Scenario-Based Problem 
+*(Date: 17-Jan-2026)*
+
+- Solved Scenario based problem
+  - ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+  - FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+  - IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 5 – Scenario based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
