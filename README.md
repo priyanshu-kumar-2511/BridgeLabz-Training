@@ -477,3 +477,22 @@ BridgeLabz-Training/
 
 [Day 27 – Java Generics(collections)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/generics)
 
+## 🗓 Day 28 – Scenario based problem(dsa), Java Collections, cenario Based Problem(oops)
+*(Date: 17-Jan-2026)*
+
+- Solved Scenario based problem(dsa)
+  - ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+  - FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+  - IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+- Learn and Solve Java Collection
+- Solved Scenario based problem(oops)
+  - Bag-n-Ball
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 28 - Scenario Based Problem(dsa)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
+[Day 28 – Java Collections](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/collections)
+
+[Day 28 - Scenario Based Problem(oops)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
