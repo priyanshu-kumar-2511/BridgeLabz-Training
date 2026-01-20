@@ -329,3 +329,14 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 24 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
+## 🗓 Day 25 – leetcode Practice
+*(Date: 20-Jan-2026)*
+
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - First Missing Positive 
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 25 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
