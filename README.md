@@ -199,3 +199,13 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 2 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
 
+## 🗓 Day 3 - Scenario based problem
+*(Date: 19-Jan-2026)*
+
+- Solved Scenario based problem
+  - Address Book System: OOP Concepts:- Classes, Objects, Encapsulation, Constructors, Access Modifiers, Collections
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 3 - Scenario Based Problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
