@@ -56,3 +56,16 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 4 – Java Collections](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/collections)
 
+## 🗓 Day 5 – Java Collections & Streams 
+*(Date: 20-Jan-2026)*
+
+- Studied & Solved Collections
+- Solved Queue Interface related problem
+  - Reverse a Queue
+  - Generate Binary Numbers Using a Queue
+- Studied Java Streams 
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 5 – Java Collections](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/collections)
+
