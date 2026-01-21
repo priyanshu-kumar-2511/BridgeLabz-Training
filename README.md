@@ -162,3 +162,16 @@ Functions)
 🔗 *Code Link:*  
 [Day 7 – Scenario based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
 
+## Week 5: Scenario Based Problem - DSA
+
+## 🗓 Day 1 –  Scenario-Based Problem 
+*(Date: 21-Jan-2026)*
+
+- Solved Scenario based problem
+  - TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
+  - MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 1 – Scenario based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
