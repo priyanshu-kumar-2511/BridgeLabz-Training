@@ -477,7 +477,7 @@ BridgeLabz-Training/
 
 [Day 27 – Java Generics(collections)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/generics)
 
-## 🗓 Day 28 – Scenario based problem(dsa), Java Collections, cenario Based Problem(oops)
+## 🗓 Day 28 – Scenario based problem(dsa), Java Collections, Scenario Based Problem(oops)
 *(Date: 17-Jan-2026)*
 
 - Solved Scenario based problem(dsa)
@@ -495,4 +495,32 @@ BridgeLabz-Training/
 [Day 28 – Java Collections](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/collections)
 
 [Day 28 - Scenario Based Problem(oops)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
+## 🗓 Day 29 – Scenario based problem(oops), Java Collections & Streams, Scenario Based Problem(dsa), Leetcode Practice 
+*(Date: 19-Jan-2026)*
+
+- Solved Scenario based problem(oops)
+  - Address Book System: OOP Concepts:- Classes, Objects, Encapsulation, Constructors, Access Modifiers, Collections
+- Studied & Solved Collections
+- Solved Set Interface related problem
+  - Check if Two Sets Are Equal
+  - Union and Intersection of Two Sets
+- Studied Java Streams
+- Solved Scenario based problem(dsa)
+  - FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+  - FlashDealz – Product Sorting by Discount (Quick Sort)
+  - EduResults – Rank Sheet Generator (Merge Sort)
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - Combination Sum II
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 29 - Scenario Based Problem(dsa)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
+[Day 29 – Java Collections](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/collections)
+
+[Day 29 - Scenario Based Problem(oops)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/JavaOopsScenarioBasedCodebase/src)
+
+[Day 29 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
