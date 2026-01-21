@@ -546,5 +546,28 @@ BridgeLabz-Training/
 
 [Day 30 - Scenario Based Problem(dsa)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
 
-[Day 30 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+[Day 30 – Leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+## 🗓 Day 31 – Java Streams & Exceptions, Scenario Based Problem(dsa), Leetcode Practice 
+*(Date: 21-Jan-2026)*
+
+- Studied & Solved Streams
+- Solved related problem
+  - File Handling - Read and Write a Text File
+  - Buffered Streams - Efficient File Copy
+- Studied Exceptions 
+- Solved Scenario based problem(dsa)
+  - TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
+  - MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - Permutation II
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 31 – Java Streams](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/streams)
+
+[Day 31 - Scenario Based Problem(dsa)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
+[Day 31 – Leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
