@@ -524,3 +524,27 @@ BridgeLabz-Training/
 
 [Day 29 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
+## 🗓 Day 30 – Java Collections & Streams, Scenario Based Problem(dsa), Leetcode Practice 
+*(Date: 20-Jan-2026)*
+
+- Studied & Solved Collections
+- Solved Queue Interface related problem
+  - Reverse a Queue
+  - Generate Binary Numbers Using a Queue
+- Studied Java Streams 
+- Solved Scenario based problem(dsa)
+  - MovieTime – Theater Show Listings (Insertion Sort)
+  - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  - GamerZone – High Score Ranking System (Quick Sort)
+- Practiced in Leetcode.
+- Solved problem related to Array
+  - First Missing Positive 
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 30 – Java Collections](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/collections)
+
+[Day 30 - Scenario Based Problem(dsa)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
+[Day 30 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
