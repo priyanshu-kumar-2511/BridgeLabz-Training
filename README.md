@@ -150,3 +150,15 @@ Functions)
 🔗 *Code Link:*  
 [Day 6 – Scenario based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
 
+## 🗓 Day 7 –  Scenario-Based Problem 
+*(Date: 20-Jan-2026)*
+
+- Solved Scenario based problem
+  - MovieTime – Theater Show Listings (Insertion Sort)
+  - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  - GamerZone – High Score Ranking System (Quick Sort)
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+[Day 7 – Scenario based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
+
