@@ -69,3 +69,16 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 5 – Java Collections](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/collections)
 
+## 🗓 Day 6 – Java Streams & Exceptions 
+*(Date: 21-Jan-2026)*
+
+- Studied & Solved Streams
+- Solved related problem
+  - File Handling - Read and Write a Text File
+  - Buffered Streams - Efficient File Copy
+- Studied Exceptions
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 6 – Java Streams](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/streams)
+
