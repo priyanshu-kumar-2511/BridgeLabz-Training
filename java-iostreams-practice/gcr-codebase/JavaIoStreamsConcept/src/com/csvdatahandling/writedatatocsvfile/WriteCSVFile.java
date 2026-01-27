@@ -13,7 +13,7 @@ public class WriteCSVFile {
 
     public static void main(String[] args) {
 
-        String filePath = "dataincsv/employees.csv";
+        String filePath = "dataincsv/com/csvdatahandling/writedatatocsvfile/employees.csv";
 
         try (BufferedWriter bw = new BufferedWriter(new FileWriter(filePath))) {
 
