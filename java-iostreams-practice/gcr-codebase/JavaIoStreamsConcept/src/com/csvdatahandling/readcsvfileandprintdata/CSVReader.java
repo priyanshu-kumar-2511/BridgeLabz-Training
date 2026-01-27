@@ -13,7 +13,7 @@ public class CSVReader {
 
     public static void main(String[] args) {
 
-    	String filePath = "dataincsv/students.csv";
+    	String filePath = "dataincsv/com/csvdatahandling/readcsvfileandprintdata/students.csv";
 
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
 
