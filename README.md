@@ -122,3 +122,14 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 2 – Annotations & Reflection](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/annotations)
 
+## 🗓 Day 3 – Scenario based problem
+*(Date: 25-Jan-2026)*
+
+- Solved Scenario based problem
+  - ResumeAnalyzer – Smart Resume Filtering System
+  - TravelLog – Trip Organizer for Backpackers
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 3 – Scenario based problem](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/scenario-based-codebase/JavaCollectionsScenarioBasedCodebase/src)
+
