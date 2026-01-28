@@ -110,3 +110,15 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 1 – Java Regex & Junit](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/regex)
 
+## 🗓 Day 2 – Annotations & Reflection
+*(Date: 24-Jan-2026)*
+
+- Studied & Solved Annotations, Reflection
+- Solved related problem
+  - Get Class Information
+  - Access Private Field
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 2 – Annotations & Reflection](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/annotations)
+
