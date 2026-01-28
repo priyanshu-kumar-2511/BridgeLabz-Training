@@ -82,3 +82,16 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 6 – Java Streams](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/streams)
 
+## 🗓 Day 7 – Java Exceptions , Regex & Junit
+*(Date: 22-Jan-2026)*
+
+- Studied & Solved Exceptions
+- Solved related problem
+  - Checked Exception (Compile-time Exception)
+  - Unchecked Exception (Runtime Exception)
+- Studied Regex & Junit
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 7 – Java Exceptions](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/exceptions)
+
