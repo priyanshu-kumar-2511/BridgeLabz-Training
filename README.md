@@ -634,3 +634,13 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 35 – Scenario based problem (Collections)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/scenario-based-codebase/JavaCollectionsScenarioBasedCodebase/src)
 
+## 🗓 Day 36 – Scenario based problem (Collections)
+*(Date: 27-Jan-2026)*
+
+- Solved Scenario based problem
+  - ExamResultUploader – Bulk Marks Processing
+  - DealTracker – E-Commerce Discount Validator
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 36 – Scenario based problem (Collections)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/scenario-based-codebase/JavaCollectionsScenarioBasedCodebase/src)
