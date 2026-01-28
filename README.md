@@ -95,3 +95,18 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 7 – Java Exceptions](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/exceptions)
 
+## ---> Week 5: Scenerio Based Problem & Java Collections Framework
+
+## 🗓 Day 1 – Regex & Junit , Annotations, Reflection
+*(Date: 23-Jan-2026)*
+
+- Studied & Solved Regex & Junit
+- Solved related problem
+  - Validate a Username
+  - Validate a License Plate Number
+- Studied Annotations & Reflection
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 1 – Java Regex & Junit](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/regex)
+
