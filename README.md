@@ -623,3 +623,14 @@ BridgeLabz-Training/
 
 [Day 34 - CSV Data Handling](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIoStreamsConcept/src/com/csvdatahandling)
 
+## 🗓 Day 35 – Scenario based problem (Collections)
+*(Date: 25-Jan-2026)*
+
+- Solved Scenario based problem
+  - ResumeAnalyzer – Smart Resume Filtering System
+  - TravelLog – Trip Organizer for Backpackers
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 35 – Scenario based problem (Collections)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/scenario-based-codebase/JavaCollectionsScenarioBasedCodebase/src)
+
