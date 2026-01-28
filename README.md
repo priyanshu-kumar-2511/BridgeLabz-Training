@@ -584,4 +584,21 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 32 – Java Exceptions](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/exceptions)
 
+## 🗓 Day 33 – Regex & Junit , Annotations, Reflection(Collections), CSV Data Handling(IO Programming)
+*(Date: 23-Jan-2026)*
+
+- Studied & Solved Regex & Junit
+- Solved related problem
+  - Validate a Username
+  - Validate a License Plate Number
+- Studied Annotations & Reflection
+- Solved CSV Data Handling
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 33 – Regex](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/regex)
+
+[Day 33 - Junit](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/junit)
+
+[Day 33 - CSV Data Handling](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIoStreamsConcept/src/com/csvdatahandling)
 
