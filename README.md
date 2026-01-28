@@ -602,3 +602,24 @@ BridgeLabz-Training/
 
 [Day 33 - CSV Data Handling](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIoStreamsConcept/src/com/csvdatahandling)
 
+## 🗓 Day 34 – Annotations, Reflection(Collections), CSV Data Handling(IO Programming)
+*(Date: 24-Jan-2026)*
+
+- Studied & Solved Annotations, Reflection
+- Solved related problem
+  - Get Class Information
+  - Access Private Field
+- Studied & Solved CSV Data Handling
+- Solved related problem
+  - Validate CSV Data Before Processing
+  - Convert CSV Data into Java Objects
+- Studied JSON Data
+- Committed and pushed solutions to the repository 
+
+🔗 *Code Link:*  
+[Day 34 – Annotations ](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/annotations)
+  
+[Day 34 – Reflection](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/reflection)
+
+[Day 34 - CSV Data Handling](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIoStreamsConcept/src/com/csvdatahandling)
+
