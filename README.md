@@ -696,3 +696,16 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 39 – Stream API](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8ProgrammmingConcept/src/com/streamapi) 
 
+## 🗓 Day 40 – Collectors
+*(Date: 31-Jan-2026)*
+
+- Studied & Solved Collectors
+- Solved related problem
+  - Student Result Grouping
+  - Word Frequency Counter
+  - Order Revenue Summary
+- Committed and pushed solutions to the repository
+🔗 *Code Link:*  
+[Day 40 – Collectors](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8ProgrammmingConcept/src/com/collectors) 
+
+
