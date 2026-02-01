@@ -271,6 +271,7 @@ BridgeLabz-Training/
 
 [Day 15 – leetcode Practice](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
 
+## ---> Data Structures & Algorithms Practice
 
 ## 🗓 Day 16 - Encapsulation, Polymorphism, Interface & Abstract Classes , Scenario based problem(oops) & leetcode & DSA
 *(Date: 02-Jan-2026)*
@@ -462,6 +463,8 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 26 - Scenario Based Problem(dsa)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/JavaDsaScenarioBasedCodebase/src)
 
+## ---> Java Collections & Streams Practice
+
 ## 🗓 Day 27 – Scenario based problem(dsa), Generics(collections)
 *(Date: 16-Jan-2026)*
 
@@ -584,6 +587,8 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 32 – Java Exceptions](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionConcept/src/com/exceptions)
 
+## ---> IO Programming Practice
+
 ## 🗓 Day 33 – Regex & Junit , Annotations, Reflection(Collections), CSV Data Handling(IO Programming)
 *(Date: 23-Jan-2026)*
 
@@ -644,3 +649,25 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 [Day 36 – Scenario based problem (Collections)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/scenario-based-codebase/JavaCollectionsScenarioBasedCodebase/src)
+
+## ---> Java 8 & its Features Practice
+
+## 🗓 Day 37 – GitHub Setup & Lambda Expressions 
+*(Date: 28-Jan-2026)*
+
+- Set up GitHub repository.
+
+```
+BridgeLabz-Training/
+│── java8-programming-practice/
+│ │── gcr-codebase/
+│ | │── Java8ProgrammmingConcept/
+| |   |── src/
+│ │── scenario-based-codebase/
+│── README.md
+```
+
+- Studied & Solved Lambda Expressions
+
+🔗 *Code Link:*  
+[Day 37 – GitHub Setup & Lambda Expressions](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8ProgrammmingConcept/src/com/lambdaexpressions)
