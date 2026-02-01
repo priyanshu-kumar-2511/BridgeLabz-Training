@@ -34,3 +34,15 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 2 – Functional Interfaces](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8ProgrammmingConcept/src/com/functionalinterface) 
 
+## 🗓 Day 3 – Stream API
+*(Date: 30-Jan-2026)*
+
+- Studied & Solved Stream API
+- Solved related problem
+  - Top 5 Trending Movies
+  - Hospital Doctor Availability
+  - Insurance Claim Analysis
+- Committed and pushed solutions to the repository
+🔗 *Code Link:*  
+[Day 3 – Stream API](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8ProgrammmingConcept/src/com/streamapi) 
+
