@@ -671,3 +671,15 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 [Day 37 – GitHub Setup & Lambda Expressions](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8ProgrammmingConcept/src/com/lambdaexpressions)
+
+## 🗓 Day 38 – Functional Interfaces
+*(Date: 29-Jan-2026)*
+
+- Studied & Solved Functional Interfaces
+- Solved related problem
+  - Temperature Alert System
+  - String Length Checker
+  - Background Job Execution
+- Committed and pushed solutions to the repository
+🔗 *Code Link:*  
+[Day 38 – Functional Interfaces](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8ProgrammmingConcept/src/com/functionalinterface) 
