@@ -739,3 +739,26 @@ BridgeLabz-Training/
 
 [Day 41 – Scenario based problem(Lambda Expressions)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/lambdaexpressions) 
 
+## 🗓 Day 42 – Scenario based problem(Java8 - Functional Interface) & Design Patterns 
+*(Date: 03-Feb-2026)*
+
+- Solved Scenario based problem on Functional Interface
+  - Predicate (Condition Checking)
+    - Student System
+    - Employee System
+    - Bank Application
+  - Function (Data Transformation)
+    - Student System
+    - Employee System
+    - Bank Application
+
+- Studied & Solved Design Patterns
+- Solved related problem
+  - Library Management System (LMS) with GoF Patterns    
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 42 – Scenario based problem(Functional Interface)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/funtionalinterface) 
+
+[Day 42 – Design Patterns](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr%20codebase/JavaDesignPatternConcept/src/com/designpattern) 
+
