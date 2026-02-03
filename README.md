@@ -31,6 +31,7 @@ BridgeLabz-Training/
   - String Length Checker
   - Background Job Execution
 - Committed and pushed solutions to the repository
+
 🔗 *Code Link:*  
 [Day 2 – Functional Interfaces](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8ProgrammmingConcept/src/com/functionalinterface) 
 
@@ -43,6 +44,7 @@ BridgeLabz-Training/
   - Hospital Doctor Availability
   - Insurance Claim Analysis
 - Committed and pushed solutions to the repository
+
 🔗 *Code Link:*  
 [Day 3 – Stream API](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8ProgrammmingConcept/src/com/streamapi) 
 
@@ -55,7 +57,21 @@ BridgeLabz-Training/
   - Word Frequency Counter
   - Order Revenue Summary
 - Committed and pushed solutions to the repository
+
 🔗 *Code Link:*  
 [Day 4 – Collectors](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8ProgrammmingConcept/src/com/collectors) 
 
+## ---> Scenerio Based Problem
+
+## 🗓 Day 5 – Scenario based problem 
+*(Date: 02-Feb-2026)*
+
+- Solved Scenario based problem on Lambda Expressions
+  - School System
+  - Office System
+  - E-Commerce
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 5 – Scenario based problem(Lambda Expressions)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/lambdaexpressions) 
 
