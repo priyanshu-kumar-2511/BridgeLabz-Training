@@ -666,7 +666,6 @@ BridgeLabz-Training/
 │ │── scenario-based-codebase/
 │── README.md
 ```
-
 - Studied & Solved Lambda Expressions
 
 🔗 *Code Link:*  
@@ -681,6 +680,7 @@ BridgeLabz-Training/
   - String Length Checker
   - Background Job Execution
 - Committed and pushed solutions to the repository
+
 🔗 *Code Link:*  
 [Day 38 – Functional Interfaces](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8ProgrammmingConcept/src/com/functionalinterface) 
 
@@ -693,6 +693,7 @@ BridgeLabz-Training/
   - Hospital Doctor Availability
   - Insurance Claim Analysis
 - Committed and pushed solutions to the repository
+
 🔗 *Code Link:*  
 [Day 39 – Stream API](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8ProgrammmingConcept/src/com/streamapi) 
 
@@ -705,7 +706,36 @@ BridgeLabz-Training/
   - Word Frequency Counter
   - Order Revenue Summary
 - Committed and pushed solutions to the repository
+
 🔗 *Code Link:*  
 [Day 40 – Collectors](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-codebase/Java8ProgrammmingConcept/src/com/collectors) 
 
+## ---> Solution Designing
+
+## 🗓 Day 41 – Scenario based problem(Java8 - Lambda Expressions) & GitHub Setup & Design Principles 
+*(Date: 02-Feb-2026)*
+
+- Solved Scenario based problem on Lambda Expressions
+  - School System
+  - Office System
+  - E-Commerce
+
+- Set up GitHub repository.
+```
+BridgeLabz-Training/
+│── java-design-pattern-practice/
+│ │── gcr-codebase/
+│ | │── JavaDesignPatternConcept/
+| |   |── src/
+│ │── scenario-based-codebase/
+│── README.md
+```
+- Studied Design Principles
+
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 41 – GitHub Setup & Design Principles](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-design-pattern-practice)  
+
+[Day 41 – Scenario based problem(Lambda Expressions)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/lambdaexpressions) 
 
