@@ -75,3 +75,20 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 5 – Scenario based problem(Lambda Expressions)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/lambdaexpressions) 
 
+## 🗓 Day 6 – Scenario based problem 
+*(Date: 03-Feb-2026)*
+
+- Solved Scenario based problem on Functional Interface
+  - Predicate (Condition Checking)
+    - Student System
+    - Employee System
+    - Bank Application
+  - Function (Data Transformation)
+    - Student System
+    - Employee System
+    - Bank Application
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 6 – Scenario based problem(Functional Interface)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/funtionalinterface) 
+
