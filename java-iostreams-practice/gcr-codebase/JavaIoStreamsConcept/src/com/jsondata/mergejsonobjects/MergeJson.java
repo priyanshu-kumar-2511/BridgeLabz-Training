@@ -1,0 +1,22 @@
+package com.jsondata.mergejsonobjects;
+
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.node.ObjectNode;
+
+public class MergeJson {
+	public static void main(String[] args) {
+		try {
+			ObjectMapper mapper = new ObjectMapper();
+
+			ObjectNode info = mapper.createObjectNode().put("name", "Priyanshu").put("id", 130);
+			ObjectNode status = mapper.createObjectNode().put("active", true).put("role", "Developer");
+
+			// Merge status into info
+			info.setAll(status);
+
+			System.out.println("Merged Result: " + info.toString());
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+}
