@@ -29,6 +29,20 @@ BridgeLabz-Training/
 - Solved related problem
   - Library Management System (LMS) with GoF Patterns
 - Committed and pushed solutions to the repository
+
 🔗 *Code Link:*  
 [Day 2 – Design Patterns](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr%20codebase/JavaDesignPatternConcept/src/com/designpattern) 
+
+## 🗓 Day 3 – Multi-Threading
+*(Date: 4-Feb-2026)*
+
+- Studied & Solved Multi-Threading
+- Solved related problem
+  - Download Manager
+  - Banking System with Multiple Transactions
+  - Restaurant Order Processing System
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 3 – Multi-Threading](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr%20codebase/JavaDesignPatternConcept/src/com/multithreading) 
 
