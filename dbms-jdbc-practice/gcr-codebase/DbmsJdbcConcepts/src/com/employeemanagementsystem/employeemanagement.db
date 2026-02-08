@@ -1,0 +1,69 @@
+-- ============================================================
+-- Problem: Exercise 1 - Simple CRUD Application
+-- File: employeemanagement.db
+-- Table: employees
+-- Database: employee_management
+-- ============================================================
+
+-- mysql> USE employee_management;
+
+/* o/p
+Database changed
+*/
+
+-- mysql>
+CREATE TABLE employee (
+employee_id INT PRIMARY KEY AUTO_INCREMENT,
+name VARCHAR(50) NOT NULL,
+salary DECIMAL(10,2) NOT NULL,
+department VARCHAR(40)
+);
+
+/* o/p
+Query OK, 0 rows affected (0.02 sec)
+*/
+
+-- mysql> SHOW TABLES;
+
+/* o/p 
++-------------------------------+
+| Tables_in_employee_management |
++-------------------------------+
+| employees                     |
++-------------------------------+
+1 row in set (0.02 sec)
+*/
+
+-- mysql> DESCRIBE employees;
+
+/* o/p 
++------------+---------------+------+-----+-------------------+-------------------+
+| Field      | Type          | Null | Key | Default           | Extra             |
++------------+---------------+------+-----+-------------------+-------------------+
+| id         | int           | NO   | PRI | NULL              | auto_increment    |
+| name       | varchar(100)  | NO   |     | NULL              |                   |
+| department | varchar(100)  | YES  |     | NULL              |                   |
+| salary     | decimal(10,2) | NO   |     | NULL              |                   |
+| created_at | timestamp     | YES  |     | CURRENT_TIMESTAMP | DEFAULT_GENERATED |
++------------+---------------+------+-----+-------------------+-------------------+
+5 rows in set (0.01 sec)
+*/
+
+-- mysql>
+INSERT INTO employees (name, department, salary)
+VALUES ('Priyanshu Kumar', 'IT', 50000);
+
+/* o/p
+1 row in set (0.00 sec)
+*/
+
+-- mysql> SELECT * FROM employees;
+
+/* o/p
++----+-----------------+------------+----------+---------------------+
+| id | name            | department | salary   | created_at          |
++----+-----------------+------------+----------+---------------------+
+|  1 | Priyanshu Kumar | IT         | 50000.00 | 2026-02-08 23:56:59 |
++----+-----------------+------------+----------+---------------------+
+1 row in set (0.00 sec)
+*/
