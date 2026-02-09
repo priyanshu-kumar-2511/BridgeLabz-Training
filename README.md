@@ -131,3 +131,17 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 [Day 1 – Scenario based problem(Functional Interface)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/funtionalinterface) 
+
+## 🗓 Day 2 – Scenario based problem 
+*(Date: 06-Feb-2026)*
+
+- Solved Scenario based problem on Optional Class
+  - Student Management System
+  - Employee / Office System
+  - Banking Application 
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 2 – Scenario based problem(Optional Class)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/optionalclass)
+
+
