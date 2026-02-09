@@ -1,0 +1,108 @@
+=====================================
+/* Exercise 2: Transaction Management
+Implement a banking system with:
+• Transfer money between accounts (use transactions)
+• Check balance
+• Transaction history */
+
+======================================
+
+-------- Create Banking System -------
+
+mysql> CREATE DATABASE banking_system;
+Query OK, 1 row affected (0.01 sec)
+
+--------- Use Banking System ---------
+
+mysql> USE banking_system;
+Database changed
+
+-------- Create Accounts Table -------
+
+mysql> CREATE TABLE accounts (
+       account_id INT PRIMARY KEY AUTO_INCREMENT,
+       account_holder VARCHAR(100) NOT NULL,
+       balance DECIMAL(12,2) NOT NULL CHECK (balance >= 0)
+       );
+Query OK, 0 rows affected (0.02 sec)
+
+----- Create Transactions Table ------
+
+mysql> CREATE TABLE transactions (
+       transaction_id INT PRIMARY KEY AUTO_INCREMENT,
+       from_account INT,
+       to_account INT,
+       amount DECIMAL(12,2) NOT NULL,
+       transaction_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+       FOREIGN KEY (from_account) REFERENCES accounts(account_id),
+       FOREIGN KEY (to_account) REFERENCES accounts(account_id)
+       );
+Query OK, 0 rows affected (0.04 sec)
+
+------- Insert Accounts Data -------
+
+mysql> INSERT INTO accounts (account_holder, balance)
+       VALUES ('Priyanshu', 11000), ('Ankesh', 10000);
+Query OK, 2 rows affected (0.01 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+---- Checking Accounts Balance -----
+
+mysql> select * from accounts;
+
++------------+----------------+----------+
+| account_id | account_holder | balance  |
++------------+----------------+----------+
+|          1 | Priyanshu      | 11000.00 |
+|          2 | Ankesh         | 10000.00 |
++------------+----------------+----------+
+2 rows in set (0.00 sec)
+
+-------- Start Transaction --------
+
+mysql> START TRANSACTION;
+
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> UPDATE accounts
+       SET balance = balance - 2000
+       WHERE account_id = 1;
+    
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0    
+
+mysql> UPDATE accounts
+       SET balance = balance + 2000
+       WHERE account_id = 2;
+    
+Query OK, 2 rows affected (0.01 sec)
+Rows matched: 2  Changed: 2  Warnings: 0
+
+----- Update Transaction Table -----
+
+ mysql> INSERT INTO transactions (from_account, to_account, amount)
+        VALUES (1, 2, 2000);
+Query OK, 1 row affected (0.00 sec)
+
+---- Checking Accounts Balance -----
+
+mysql> select * from accounts;
+
++------------+----------------+----------+
+| account_id | account_holder | balance  |
++------------+----------------+----------+
+|          1 | Priyanshu      |  9000.00 |
+|          2 | Ankesh         | 12000.00 |
++------------+----------------+----------+
+2 rows in set (0.00 sec)
+
+--- Checking Transaction History --- 
+
+mysql> SELECT * FROM transactions;
+
++----------------+--------------+------------+---------+---------------------+
+| transaction_id | from_account | to_account | amount  | transaction_time    |
++----------------+--------------+------------+---------+---------------------+
+|              1 |            1 |          2 | 2000.00 | 2026-02-09 12:20:17 |
++----------------+--------------+------------+---------+---------------------+
+1 rows in set (0.00 sec) 
