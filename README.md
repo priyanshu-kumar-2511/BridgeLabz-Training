@@ -847,3 +847,17 @@ BridgeLabz-Training/
 [Day 46 – Workshop](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/workshop/smartcitytransportandservicemanagementsystem)
 
 [Day 46 – GitHub Setup & MySQL](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dbms-jdbc-practice)
+
+## 🗓 Day 47 – MySQL
+*(Date: 09-Feb-2026)*
+
+- Studied & Solved MySQL
+- Solved related problem
+  - Simple CRUD Application
+  - Transaction Management
+  - library management system
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 47 – MySQL](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DbmsJdbcConcepts/src/com) 
+
