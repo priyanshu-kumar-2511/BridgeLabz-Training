@@ -1,0 +1,192 @@
+=============================================
+/* Exercise 3: Advanced Features
+Build a library management system with:
+• Book inventory
+• Student borrowing records
+• Fine calculation
+• Search functionality with multiple filters */
+==============================================
+
+----------- Create Library System ------------
+
+mysql> CREATE DATABASE library_management;
+Query OK, 1 row affected (0.01 sec)
+
+mysql> use library_management;
+Database changed
+
+------------ Create Books Table --------------
+
+mysql> CREATE TABLE books (
+       book_id INT PRIMARY KEY NOT NULL,
+       title VARCHAR(200) NOT NULL,
+       author VARCHAR(150) NOT NULL,
+       category VARCHAR(200) NOT NULL,
+       quantity INT NOT NULL CHECK (quantity >= 0),
+       stock INT NOT NULL CHECK (stock >= 0)
+       );
+Query OK, 0 rows affected (0.04 sec)
+
+------------ Describe Books Table -------------
+
+mysql> DESC books;
++----------+--------------+------+-----+---------+-------+
+| Field    | Type         | Null | Key | Default | Extra |
++----------+--------------+------+-----+---------+-------+
+| book_id  | int          | NO   | PRI | NULL    |       |
+| title    | varchar(200) | NO   |     | NULL    |       |
+| author   | varchar(150) | NO   |     | NULL    |       |
+| category | varchar(200) | NO   |     | NULL    |       |
+| quantity | int          | NO   |     | NULL    |       |
+| stock    | int          | NO   |     | NULL    |       |
++----------+--------------+------+-----+---------+-------+
+6 rows in set (0.00 sec)
+
+----------- Create Students Table -------------
+
+mysql> CREATE TABLE students (
+       student_id INT PRIMARY KEY NOT NULL,
+       name VARCHAR(200) NOT NULL,
+       email VARCHAR(200) UNIQUE
+       );
+Query OK, 0 rows affected (0.04 sec)
+
+---------- Describe Students Table ------------
+
+mysql> DESC students;
++------------+--------------+------+-----+---------+-------+
+| Field      | Type         | Null | Key | Default | Extra |
++------------+--------------+------+-----+---------+-------+
+| student_id | int          | NO   | PRI | NULL    |       |
+| name       | varchar(200) | NO   |     | NULL    |       |
+| email      | varchar(200) | YES  | UNI | NULL    |       |
++------------+--------------+------+-----+---------+-------+
+3 rows in set (0.00 sec)
+
+------ Create Borrow Book Records Table -------
+
+mysql> CREATE TABLE borrow_book_records (
+       borrow_id INT PRIMARY KEY AUTO_INCREMENT,
+       student_id INT NOT NULL,
+       book_id INT NOT NULL,
+       borrow_date DATE NOT NULL,
+       due_date DATE NOT NULL,
+       return_date DATE,
+       fine DECIMAL(10,2) DEFAULT 0,
+       FOREIGN KEY (student_id) REFERENCES students(student_id),
+       FOREIGN KEY (book_id) REFERENCES books(book_id)
+       );
+Query OK, 0 rows affected (0.05 sec)
+
+----- Describe Borrow Book Records Table -----
+
+mysql> DESC borrow_book_records;
++-------------+---------------+------+-----+---------+----------------+
+| Field       | Type          | Null | Key | Default | Extra          |
++-------------+---------------+------+-----+---------+----------------+
+| borrow_id   | int           | NO   | PRI | NULL    | auto_increment |
+| student_id  | int           | NO   | MUL | NULL    |                |
+| book_id     | int           | NO   | MUL | NULL    |                |
+| borrow_date | date          | NO   |     | NULL    |                |
+| due_date    | date          | NO   |     | NULL    |                |
+| return_date | date          | YES  |     | NULL    |                |
+| fine        | decimal(10,2) | YES  |     | 0.00    |                |
++-------------+---------------+------+-----+---------+----------------+
+7 rows in set (0.00 sec)
+
+-------- Insert Data in Books Table ---------
+
+mysql> INSERT INTO books (book_id, title, author, category, quantity, stock)
+       VALUES (801, 'DSA', 'Priyanshu Kumar', 'Programming', 100, 50),
+       (802, 'OOPS', 'Ankesh Kumar', 'Programming', 100, 60),
+       (803, 'Power Skills', 'BridgeLabz' , 'Personality Development', 120, 90);
+Query OK, 3 rows affected (0.01 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+------- Insert Data in Students Table -------
+
+mysql> INSERT INTO students (student_id, name, email)
+       VALUES (130, 'Priyanshu Kumar', 'kumarpriyanshu77828@gmail.com'),
+       (041, 'Ankesh Kumar', 'ankeshkrgupta@gmail.com');
+Query OK, 2 rows affected (0.01 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+------- Checking Data in Books Table -------
+
+mysql> SELECT * FROM books;
++---------+--------------+-----------------+-------------------------+----------+-------+
+| book_id | title        | author          | category                | quantity | stock |
++---------+--------------+-----------------+-------------------------+----------+-------+
+|     801 | DSA          | Priyanshu Kumar | Programming             |      100 |    50 |
+|     802 | OOPS         | Ankesh Kumar    | Programming             |      100 |    60 |
+|     803 | Power Skills | BridgeLabz      | Personality Development |      120 |    90 |
++---------+--------------+-----------------+-------------------------+----------+-------+
+3 rows in set (0.00 sec)
+
+----- Checking Data in Students Table -----
+
+mysql> SELECT * FROM students;
++------------+-----------------+-------------------------------+
+| student_id | name            | email                         |
++------------+-----------------+-------------------------------+
+|         41 | Ankesh Kumar    | ankeshkrgupta@gmail.com       |
+|        130 | Priyanshu Kumar | kumarpriyanshu77828@gmail.com |
++------------+-----------------+-------------------------------+
+2 rows in set (0.00 sec)
+
+--------------- Borrow Books --------------
+
+mysql> UPDATE books
+       SET stock = stock - 1
+       WHERE book_id = 802 AND stock > 0;
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> INSERT INTO borrow_book_records (student_id, book_id, borrow_date, due_date)
+       VALUES (41, 802, CURDATE(), DATE_ADD(CURDATE(), INTERVAL 7 DAY));
+Query OK, 1 row affected (0.01 sec)
+
+mysql> COMMIT;
+Query OK, 0 rows affected (0.01 sec)
+
+--- Checking Data in Borrow Book Records ---
+
+mysql> SELECT * FROM borrow_book_records ;
++-----------+------------+---------+-------------+------------+-------------+------+
+| borrow_id | student_id | book_id | borrow_date | due_date   | return_date | fine |
++-----------+------------+---------+-------------+------------+-------------+------+
+|         1 |         41 |     802 | 2026-02-09  | 2026-02-16 | NULL        | 0.00 |
++-----------+------------+---------+-------------+------------+-------------+------+
+1 row in set (0.00 sec)
+
+-------------- Return Books --------------
+
+mysql> START TRANSACTION;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> UPDATE borrow_book_records
+    -> SET return_date = CURDATE(),
+    -> fine = IF(CURDATE() > due_date, DATEDIFF(CURDATE(), due_date) * 50, 0)
+    -> WHERE borrow_id = 1;
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> UPDATE books
+    -> SET stock = stock + 1
+    -> WHERE book_id = 802;
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> COMMIT;
+Query OK, 0 rows affected (0.00 sec)
+
+--- Checking Data in Borrow Book Records ---
+
+mysql> SELECT * FROM borrow_book_records;
++-----------+------------+---------+-------------+------------+-------------+------+
+| borrow_id | student_id | book_id | borrow_date | due_date   | return_date | fine |
++-----------+------------+---------+-------------+------------+-------------+------+
+|         1 |         41 |     802 | 2026-02-09  | 2026-02-16 | 2026-02-09  | 0.00 |
++-----------+------------+---------+-------------+------------+-------------+------+
+1 row in set (0.00 sec)
+
