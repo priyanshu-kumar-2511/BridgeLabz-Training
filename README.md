@@ -92,3 +92,19 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 6 – Scenario based problem(Functional Interface)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/funtionalinterface) 
 
+## 🗓 Day 7 – Scenario based problem 
+*(Date: 04-Feb-2026)*
+
+- Solved Scenario based problem on Functional Interface
+  - Consumer (Perform Action)
+    - Student System
+    - Employee System
+    - Bank Application
+  - Supplier (Provide Data)
+    - Generate OTP using Supplier
+    - Generate random student ID
+    - Generate random discount coupon
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 7 – Scenario based problem(Functional Interface)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/funtionalinterface) 
