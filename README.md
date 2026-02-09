@@ -144,4 +144,17 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 2 – Scenario based problem(Optional Class)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/optionalclass)
 
+## 🗓 Day 3 – Scenario based problem & Workshop
+*(Date: 07-Feb-2026)*
+
+- Solved Scenario based problem on Logical Questions
+  - Count vowels in a string using Stream
+  - Count number of words in a sentence
+- Solved Workshop - Smart City Transport & Service Management System
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 3 – Scenario based problem(Logical Questions)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/logicalquestion)
+
+[Day 3 – Workshop](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/workshop/smartcitytransportandservicemanagementsystem)
 
