@@ -820,3 +820,30 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 45 – Scenario based problem(Optional Class)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/optionalclass)
 
+## 🗓 Day 46 – Scenario based problem & Workshop(Java8 - Functional Interface) & MySQL
+*(Date: 07-Feb-2026)*
+
+- Solved Scenario based problem on Logical Questions
+  - Count vowels in a string using Stream
+  - Count number of words in a sentence
+- Solved Workshop - Smart City Transport & Service Management System
+
+- Set up GitHub repository.
+```
+BridgeLabz-Training/
+│── dbms-jdbc-practice/
+│ │── gcr-codebase/
+│ | │── DbmsJdbcConcept/
+| |   |── src/
+│ │── scenario-based-codebase/
+│── README.md
+```
+- Studied MySQL
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 46 – Scenario based problem(Logical Questions)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/logicalquestion)
+
+[Day 46 – Workshop](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/workshop/smartcitytransportandservicemanagementsystem)
+
+[Day 46 – GitHub Setup & MySQL](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dbms-jdbc-practice)
