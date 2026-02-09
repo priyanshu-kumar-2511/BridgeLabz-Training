@@ -762,3 +762,27 @@ BridgeLabz-Training/
 
 [Day 42 – Design Patterns](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr%20codebase/JavaDesignPatternConcept/src/com/designpattern) 
 
+## 🗓 Day 43 – Scenario based problem(Java8 - Functional Interface) & Multi-Threading 
+*(Date: 04-Feb-2026)*
+
+- Solved Scenario based problem on Functional Interface
+  - Consumer (Perform Action)
+    - Student System
+    - Employee System
+    - Bank Application
+  - Supplier (Provide Data)
+    - Generate OTP using Supplier
+    - Generate random student ID
+    - Generate random discount coupon
+
+- Studied & Solved Multi-Threading
+- Solved related problem
+  - Download Manager
+  - Banking System with Multiple Transactions
+  - Restaurant Order Processing System   
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 43 – Scenario based problem(Functional Interface)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/funtionalinterface) 
+
+[Day 43 – Multi-Threading](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr%20codebase/JavaDesignPatternConcept/src/com/multithreading) 
