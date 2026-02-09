@@ -108,3 +108,26 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 [Day 7 – Scenario based problem(Functional Interface)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/funtionalinterface) 
+
+## ---> Week 7: Scenario Based Problem
+
+## 🗓 Day 1 – Scenario based problem 
+*(Date: 05-Feb-2026)*
+
+- Solved Scenario based problem on Functional Interface
+  - Comparator (Comparison Logic)
+    - Compare two students by rank
+    - Compare two products by price
+    - Compare two bank accounts by balance
+  - Runnable (Task Execution)
+    - Run a background task using Runnable
+    - Execute a file cleanup task using Runnable
+    - Print a message in a separate thread using Runnable
+  - Custom Functional Interface
+    - Create a custom functional interface to calculate bonus
+    - Create a custom functional interface to check loan eligibility
+    - Create a custom functional interface to calculate tax  
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 1 – Scenario based problem(Functional Interface)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/funtionalinterface) 
