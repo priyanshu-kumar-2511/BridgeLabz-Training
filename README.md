@@ -785,4 +785,26 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 43 – Scenario based problem(Functional Interface)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/funtionalinterface) 
 
-[Day 43 – Multi-Threading](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr%20codebase/JavaDesignPatternConcept/src/com/multithreading) 
+[Day 43 – Multi-Threading](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr%20codebase/JavaDesignPatternConcept/src/com/multithreading)
+
+## 🗓 Day 44 – Scenario based problem(Java8 - Functional Interface) 
+*(Date: 05-Feb-2026)*
+
+- Solved Scenario based problem on Functional Interface
+  - Comparator (Comparison Logic)
+    - Compare two students by rank
+    - Compare two products by price
+    - Compare two bank accounts by balance
+  - Runnable (Task Execution)
+    - Run a background task using Runnable
+    - Execute a file cleanup task using Runnable
+    - Print a message in a separate thread using Runnable
+  - Custom Functional Interface
+    - Create a custom functional interface to calculate bonus
+    - Create a custom functional interface to check loan eligibility
+    - Create a custom functional interface to calculate tax  
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 44 – Scenario based problem(Functional Interface)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-based-codebase/Java8ProgrammingScenarioBasedCodebase/src/funtionalinterface) 
+
