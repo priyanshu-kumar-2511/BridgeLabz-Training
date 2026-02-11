@@ -83,6 +83,17 @@ mysql> UPDATE patients
 Query OK, 1 row affected (0.01 sec)
 Rows matched: 1  Changed: 1  Warnings: 0
 
+----- CHECKING PATIENTS DATA AFTER UPDATE -------
+
+mysql> SELECT * FROM patients;
++------------+-----------------+------------+------------+-------------------------------+------------------------+-------------+
+| patient_id | name            | dob        | contact    | email                         | address                | blood_group |
++------------+-----------------+------------+------------+-------------------------------+------------------------+-------------+
+|          1 | Priyanshu Kumar | 2005-11-25 | 6207394439 | kumarpriyanshu77828@gmail.com | Bhopal, Madhya Pradesh | A+          |
+|          2 | Ankesh Kumar    | 2005-11-15 | 6207934439 | ankeshkrgupta@gmail.com       | Katni, Madhya Pradesh  | B+          |
++------------+-----------------+------------+------------+-------------------------------+------------------------+-------------+
+2 rows in set (0.00 sec)
+
 ------------ SERACH BY LIKE OPERATOR ------------
 
 mysql> SELECT * FROM patients
@@ -101,7 +112,7 @@ mysql> SELECT * FROM patients
 +------------+-----------------+------------+------------+-------------------------------+------------------------+-------------+
 | patient_id | name            | dob        | contact    | email                         | address                | blood_group |
 +------------+-----------------+------------+------------+-------------------------------+------------------------+-------------+
-|          1 | Priyanshu Kumar | 2005-11-25 | 6207394439 | kumarpriyanshu77828@gmail.com | Bhopal, Madhya Pradesh | +A          |
+|          1 | Priyanshu Kumar | 2005-11-25 | 6207394439 | kumarpriyanshu77828@gmail.com | Bhopal, Madhya Pradesh | A+          |
 +------------+-----------------+------------+------------+-------------------------------+------------------------+-------------+
 1 row in set (0.00 sec)
 
