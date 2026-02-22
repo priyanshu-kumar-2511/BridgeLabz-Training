@@ -35,3 +35,13 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 2 – MySQL](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DbmsJdbcConcepts/src/com) 
 
+## 🗓 Day 3 – Scenario based problem (MySQL)
+*(Date: 10-Feb-2026)*
+
+- Solved Scenario based problem
+  - Patient Management
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 3 – Scenario based problem (MySQL)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/DbmsJdbcScenarioBasedCodebase/src/com/patientmanagement) 
+
