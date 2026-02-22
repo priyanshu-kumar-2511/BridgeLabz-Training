@@ -894,3 +894,10 @@ BridgeLabz-Training/
   - Factory Robot Hazard Analyzer
   - Airline Management
 
+## 🗓 Day 51 – M1 Practice Question
+*(Date: 13-Feb-2026)*
+
+- Solved M1 Practice Question
+  - Cab Booking System
+
+  
