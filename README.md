@@ -887,3 +887,10 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 49 – JDBC](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMCJDBCCONCEPTS/src/main/java/com/dbmsjdbc/jdbc) 
 
+## 🗓 Day 50 – M1 Practice Question
+*(Date: 12-Feb-2026)*
+
+- Solved M1 Practice Question
+  - Factory Robot Hazard Analyzer
+  - Airline Management
+
