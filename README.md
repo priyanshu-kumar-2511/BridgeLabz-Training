@@ -861,3 +861,16 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 47 – MySQL](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DbmsJdbcConcepts/src/com) 
 
+## 🗓 Day 48 – Scenario based problem (MySQL) & M1 Mock Exam
+*(Date: 10-Feb-2026)*
+
+- M1 Mock Exam
+  - Smart Canteen Order Tracker 
+  - Online Fitness App – Weekly Activity Analyzer
+- Solved Scenario based problem
+  - Patient Management
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 48 – Scenario based problem (MySQL)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/DbmsJdbcScenarioBasedCodebase/src/com/patientmanagement) 
+
