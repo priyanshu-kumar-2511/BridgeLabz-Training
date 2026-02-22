@@ -874,3 +874,16 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 48 – Scenario based problem (MySQL)](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based-codebase/DbmsJdbcScenarioBasedCodebase/src/com/patientmanagement) 
 
+## 🗓 Day 49 – JDBC
+*(Date: 11-Feb-2026)*
+
+- Studied & Solved JDBC
+- Solved related problem
+  - Employee Management System
+  - Transaction Management System
+  - library management system
+- Committed and pushed solutions to the repository
+
+🔗 *Code Link:*  
+[Day 49 – JDBC](https://github.com/priyanshu-kumar-2511/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMCJDBCCONCEPTS/src/main/java/com/dbmsjdbc/jdbc) 
+
